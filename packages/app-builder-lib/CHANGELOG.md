@@ -1,5 +1,18 @@
 # app-builder-lib
 
+## 23.3.0
+
+### Minor Changes
+
+- [#6941](https://github.com/electron-userland/electron-builder/pull/6941) [`14503ceb`](https://github.com/electron-userland/electron-builder/commit/14503ceb99c1a31c54a261a1ae60a34980f36a50) Thanks [@ezekg](https://github.com/ezekg)! - Upgrade Keygen publisher/updater integration to API version v1.1.
+
+### Patch Changes
+
+- [#6956](https://github.com/electron-userland/electron-builder/pull/6956) [`4e905046`](https://github.com/electron-userland/electron-builder/commit/4e905046e632b396735b78618fbc01331448f088) Thanks [@regentcid434](https://github.com/regentcid434)! - fix(mac): allow Mac Developer certs for non Mac App Store builds
+
+- Updated dependencies [[`8ffd9d42`](https://github.com/electron-userland/electron-builder/commit/8ffd9d42d89634be76fd4554f659f2b2512f2081)]:
+  - electron-publish@23.3.0
+
 ## 23.2.0
 
 ### Minor Changes
